@@ -1,1 +1,1 @@
-###React & TailwindCSS Restaurant Landing Page
+**React & TailwindCSS Restaurant Landing Page**
